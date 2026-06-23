@@ -1,0 +1,27 @@
+# Raw biosignals — NEVER commit (large, identifiable). Place or symlink your
+# Hexoskin export under source_data/, or pass --hexoskin-path at runtime.
+source_data/
+
+# Any non-anonymized roster/manifest variants (defensive — only the *_anonymized
+# files are meant to live in data/)
+data/*combined*
+data/*raw*
+Participants DCS.csv
+*Form Responses*.csv
+*Order Of Performances*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Logs / scratch
+*.log
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/

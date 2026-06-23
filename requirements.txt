@@ -1,0 +1,16 @@
+# 2inspire-neurokit-pipeline — runtime dependencies
+#
+# Verified working set (dev env): neurokit2 0.2.13, numpy 2.3.5, pandas 2.3.3,
+# scipy, matplotlib, seaborn, soundfile 0.13.1 on Python 3.13.
+#
+# NeuroKit2 is pinned: the feature code targets the 0.2.x API (nk.hrv_*,
+# nk.rsp_rrv, nk.rsp_intervalrelated). 0.3+ is untested. numpy_compat.py shims
+# np.trapz (removed in NumPy 2.0) so NumPy 2.x works with NeuroKit2 0.2.x.
+
+neurokit2==0.2.13
+numpy>=1.21
+pandas>=1.3
+scipy>=1.7
+matplotlib>=3.5
+seaborn>=0.11
+soundfile>=0.11

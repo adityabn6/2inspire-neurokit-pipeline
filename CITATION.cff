@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software or the bundled anonymized data, please cite it as below."
+title: "2inspire-neurokit-pipeline: Hexoskin ECG + RSP cardiorespiratory feature extraction with NeuroKit2"
+abstract: >-
+  A self-contained pipeline that extracts heart-rate-variability and respiratory
+  features from raw Hexoskin signals (single-lead ECG at 256 Hz and dual-channel
+  respiration at 128 Hz) using NeuroKit2. Built for the 2Inspire study of
+  physiology during live piano performance (PI: Muneesh Tewari).
+type: software
+authors:
+  - given-names: Aditya
+    family-names: Jalin
+    email: adityabn@umich.edu
+    affiliation: "University of Michigan"
+license: MIT
+repository-code: "https://github.com/adityabn6/2inspire-neurokit-pipeline"
+keywords:
+  - heart rate variability
+  - HRV
+  - respiration
+  - NeuroKit2
+  - Hexoskin
+  - ECG
+  - cardiorespiratory coupling
+  - music performance

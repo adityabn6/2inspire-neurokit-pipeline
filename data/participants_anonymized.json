@@ -1,0 +1,991 @@
+{
+  "metadata": {
+    "source_file": "Participants_DCS_anonymized.csv",
+    "total_participants": 28,
+    "anonymized": true,
+    "anonymization_note": "Names replaced with P{ID}; no PII present.",
+    "generated_at": "2026-05-12T03:45:17.990519Z"
+  },
+  "participants": [
+    {
+      "participant_id": 1,
+      "name": "P1",
+      "demographics": {
+        "age": 23,
+        "musical_experience_years": 19,
+        "hexoskin_vest_size": "S"
+      },
+      "session_info": {
+        "session_date": "2025-05-07"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": null,
+          "session_2": "112417",
+          "session_3": "112644"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3324350",
+          "session_2": "3324351",
+          "session_3": "3324354"
+        },
+        "video_recordings": {
+          "session_1": "1194",
+          "session_2": "1194",
+          "session_3": "1194"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 2
+      }
+    },
+    {
+      "participant_id": 2,
+      "name": "P2",
+      "demographics": {
+        "age": 34,
+        "musical_experience_years": 31,
+        "hexoskin_vest_size": "S"
+      },
+      "session_info": {
+        "session_date": "2025-05-07"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "114648",
+          "session_2": "114911",
+          "session_3": "115143"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3324355",
+          "session_2": "3324409",
+          "session_3": "3324410"
+        },
+        "video_recordings": {
+          "session_1": "1195",
+          "session_2": "1196",
+          "session_3": "1197"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 3,
+      "name": "P3",
+      "demographics": {
+        "age": 27,
+        "musical_experience_years": 20,
+        "hexoskin_vest_size": "L"
+      },
+      "session_info": {
+        "session_date": "2025-05-07"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "121019",
+          "session_2": "121227",
+          "session_3": "121412"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3324420",
+          "session_2": "3324421",
+          "session_3": "3324422"
+        },
+        "video_recordings": {
+          "session_1": "1198",
+          "session_2": "1199",
+          "session_3": "1200"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 4,
+      "name": "P4",
+      "demographics": {
+        "age": 31,
+        "musical_experience_years": 27,
+        "hexoskin_vest_size": "M"
+      },
+      "session_info": {
+        "session_date": "2025-05-07"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "123133",
+          "session_2": "123323",
+          "session_3": "123508"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3324428",
+          "session_2": "3324429",
+          "session_3": "3324430"
+        },
+        "video_recordings": {
+          "session_1": "1201",
+          "session_2": "1202",
+          "session_3": "1203"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 5,
+      "name": "P5",
+      "demographics": {
+        "age": 32,
+        "musical_experience_years": 27,
+        "hexoskin_vest_size": "S"
+      },
+      "session_info": {
+        "session_date": "2025-05-07"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "153355",
+          "session_2": "153632",
+          "session_3": "153826"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3324509",
+          "session_2": "3324510",
+          "session_3": "3324511"
+        },
+        "video_recordings": {
+          "session_1": "822",
+          "session_2": "823",
+          "session_3": "824"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 6,
+      "name": "P6",
+      "demographics": {
+        "age": 29,
+        "musical_experience_years": 25,
+        "hexoskin_vest_size": "S"
+      },
+      "session_info": {
+        "session_date": "2025-05-07"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "161302",
+          "session_2": "161515",
+          "session_3": "161723"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3324512",
+          "session_2": "3324513",
+          "session_3": "3324514"
+        },
+        "video_recordings": {
+          "session_1": "825",
+          "session_2": "826",
+          "session_3": "827"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 7,
+      "name": "P7",
+      "demographics": {
+        "age": 30,
+        "musical_experience_years": 26,
+        "hexoskin_vest_size": "M"
+      },
+      "session_info": {
+        "session_date": "2025-05-09"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "163626",
+          "session_2": "163818",
+          "session_3": "164031"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3324515",
+          "session_2": "3324516",
+          "session_3": null
+        },
+        "video_recordings": {
+          "session_1": "828",
+          "session_2": "829",
+          "session_3": "830"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 2
+      }
+    },
+    {
+      "participant_id": 8,
+      "name": "P8",
+      "demographics": {
+        "age": 27,
+        "musical_experience_years": 22,
+        "hexoskin_vest_size": "M"
+      },
+      "session_info": {
+        "session_date": "2025-05-09"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "151514",
+          "session_2": "151744",
+          "session_3": "152007"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3325691",
+          "session_2": "3325692",
+          "session_3": "3325693"
+        },
+        "video_recordings": {
+          "session_1": "1204",
+          "session_2": "1205",
+          "session_3": "1206"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 9,
+      "name": "P9",
+      "demographics": {
+        "age": 22,
+        "musical_experience_years": 8,
+        "hexoskin_vest_size": "M"
+      },
+      "session_info": {
+        "session_date": "2025-05-09"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "153546",
+          "session_2": "153807",
+          "session_3": "154036"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3325803",
+          "session_2": "3325804",
+          "session_3": "3325878"
+        },
+        "video_recordings": {
+          "session_1": "1207",
+          "session_2": "1208",
+          "session_3": "1209"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 10,
+      "name": "P10",
+      "demographics": {
+        "age": 23,
+        "musical_experience_years": 12,
+        "hexoskin_vest_size": "2 Extra Small (2XS)"
+      },
+      "session_info": {
+        "session_date": "2025-05-09"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "163148",
+          "session_2": "163445",
+          "session_3": "163809"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3325880",
+          "session_2": "3325881",
+          "session_3": "3325882"
+        },
+        "video_recordings": {
+          "session_1": "1210",
+          "session_2": "1211",
+          "session_3": "1212"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 11,
+      "name": "P11",
+      "demographics": {
+        "age": 28,
+        "musical_experience_years": 24,
+        "hexoskin_vest_size": "S"
+      },
+      "session_info": {
+        "session_date": "2025-05-09"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "165745",
+          "session_2": "165927",
+          "session_3": "170159"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3325883",
+          "session_2": "3325884",
+          "session_3": "3325885"
+        },
+        "video_recordings": {
+          "session_1": "1213",
+          "session_2": "1214",
+          "session_3": "1215"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 12,
+      "name": "P12",
+      "demographics": {
+        "age": 27,
+        "musical_experience_years": 20,
+        "hexoskin_vest_size": "XL"
+      },
+      "session_info": {
+        "session_date": "2025-05-15"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "140722",
+          "session_2": "140952",
+          "session_3": "141129"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3328838",
+          "session_2": "3328839",
+          "session_3": "3328840"
+        },
+        "video_recordings": {
+          "session_1": "1216",
+          "session_2": "1217",
+          "session_3": "1218"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 13,
+      "name": "P13",
+      "demographics": {
+        "age": 24,
+        "musical_experience_years": 19,
+        "hexoskin_vest_size": "M"
+      },
+      "session_info": {
+        "session_date": "2025-05-15"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "143827",
+          "session_2": "144017",
+          "session_3": "144228"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3328848",
+          "session_2": "3328849",
+          "session_3": "3328850"
+        },
+        "video_recordings": {
+          "session_1": "1219",
+          "session_2": "1220",
+          "session_3": "1221"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 14,
+      "name": "P14",
+      "demographics": {
+        "age": 24,
+        "musical_experience_years": 15,
+        "hexoskin_vest_size": "L"
+      },
+      "session_info": {
+        "session_date": "2025-05-15"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "151432",
+          "session_2": "151625",
+          "session_3": "151822"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3328853",
+          "session_2": "3328854",
+          "session_3": "3328855"
+        },
+        "video_recordings": {
+          "session_1": "1222",
+          "session_2": "1223",
+          "session_3": "1224"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 15,
+      "name": "P15",
+      "demographics": {
+        "age": 43,
+        "musical_experience_years": 31,
+        "hexoskin_vest_size": "S"
+      },
+      "session_info": {
+        "session_date": "2025-05-15"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "153959",
+          "session_2": "154158",
+          "session_3": "154357"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3328871",
+          "session_2": "3328872",
+          "session_3": "3328873"
+        },
+        "video_recordings": {
+          "session_1": "1225",
+          "session_2": "1226",
+          "session_3": "1227"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 16,
+      "name": "P16",
+      "demographics": {
+        "age": 35,
+        "musical_experience_years": 26,
+        "hexoskin_vest_size": "M"
+      },
+      "session_info": {
+        "session_date": "2025-05-15"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "155844",
+          "session_2": "160048",
+          "session_3": "160244"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3328878",
+          "session_2": "3328879",
+          "session_3": "3328880"
+        },
+        "video_recordings": {
+          "session_1": "1228",
+          "session_2": "1229",
+          "session_3": "1230"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 17,
+      "name": "P17",
+      "demographics": {
+        "age": 26,
+        "musical_experience_years": 15,
+        "hexoskin_vest_size": "M"
+      },
+      "session_info": {
+        "session_date": "2025-05-15"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "164059",
+          "session_2": "164310",
+          "session_3": "164513"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3328884",
+          "session_2": "3328885",
+          "session_3": "3328886"
+        },
+        "video_recordings": {
+          "session_1": "1231",
+          "session_2": "1232",
+          "session_3": "1233"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 18,
+      "name": "P18",
+      "demographics": {
+        "age": 23,
+        "musical_experience_years": 18,
+        "hexoskin_vest_size": "XS"
+      },
+      "session_info": {
+        "session_date": "2025-05-16"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "103530",
+          "session_2": "103753",
+          "session_3": "102231"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3329140",
+          "session_2": "3329141",
+          "session_3": "3329099"
+        },
+        "video_recordings": {
+          "session_1": "1237",
+          "session_2": "1238",
+          "session_3": "1239"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 19,
+      "name": "P19",
+      "demographics": {
+        "age": 23,
+        "musical_experience_years": 18,
+        "hexoskin_vest_size": "M"
+      },
+      "session_info": {
+        "session_date": "2025-05-16"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "105037",
+          "session_2": "105306",
+          "session_3": "105609"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3329188",
+          "session_2": "3329189",
+          "session_3": "3329233"
+        },
+        "video_recordings": {
+          "session_1": "1240",
+          "session_2": "1241",
+          "session_3": "1242"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 20,
+      "name": "P20",
+      "demographics": {
+        "age": 30,
+        "musical_experience_years": 20,
+        "hexoskin_vest_size": "XS"
+      },
+      "session_info": {
+        "session_date": "2025-05-20"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "124846",
+          "session_2": "125044",
+          "session_3": "125249"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3331484",
+          "session_2": "3331485",
+          "session_3": "3331486"
+        },
+        "video_recordings": {
+          "session_1": "1246",
+          "session_2": "1247",
+          "session_3": "1248"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 21,
+      "name": "P21",
+      "demographics": {
+        "age": 22,
+        "musical_experience_years": 18,
+        "hexoskin_vest_size": "M"
+      },
+      "session_info": {
+        "session_date": "2025-05-20"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "131548",
+          "session_2": "131755",
+          "session_3": "132043"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3331568",
+          "session_2": "3331569",
+          "session_3": "3331572"
+        },
+        "video_recordings": {
+          "session_1": "1249",
+          "session_2": "1250",
+          "session_3": "1251"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 22,
+      "name": "P22",
+      "demographics": {
+        "age": 30,
+        "musical_experience_years": 24,
+        "hexoskin_vest_size": "L"
+      },
+      "session_info": {
+        "session_date": "2025-05-20"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "134521",
+          "session_2": "134706",
+          "session_3": "134928"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3331670",
+          "session_2": "3331671",
+          "session_3": "3331766"
+        },
+        "video_recordings": {
+          "session_1": "1252",
+          "session_2": "1253",
+          "session_3": "1254"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 24,
+      "name": "P24",
+      "demographics": {
+        "age": 29,
+        "musical_experience_years": 25,
+        "hexoskin_vest_size": "M"
+      },
+      "session_info": {
+        "session_date": "2025-05-23"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "94143",
+          "session_2": "94348",
+          "session_3": "94540"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3333661",
+          "session_2": "3333662",
+          "session_3": "3333663"
+        },
+        "video_recordings": {
+          "session_1": "1258",
+          "session_2": "1259",
+          "session_3": "1260"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 25,
+      "name": "P25",
+      "demographics": {
+        "age": 26,
+        "musical_experience_years": 18,
+        "hexoskin_vest_size": "M"
+      },
+      "session_info": {
+        "session_date": "2025-05-23"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "100023",
+          "session_2": "100204",
+          "session_3": "100346"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3333664",
+          "session_2": "3333665",
+          "session_3": "3333666"
+        },
+        "video_recordings": {
+          "session_1": "1261",
+          "session_2": "1262",
+          "session_3": "1263"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 26,
+      "name": "P26",
+      "demographics": {
+        "age": 25,
+        "musical_experience_years": 15,
+        "hexoskin_vest_size": "M"
+      },
+      "session_info": {
+        "session_date": "2025-05-23"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "103906",
+          "session_2": "104110",
+          "session_3": "104306"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3333667",
+          "session_2": "3333668",
+          "session_3": "3333669"
+        },
+        "video_recordings": {
+          "session_1": "1264",
+          "session_2": "1265",
+          "session_3": "1266"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 27,
+      "name": "P27",
+      "demographics": {
+        "age": 28,
+        "musical_experience_years": 25,
+        "hexoskin_vest_size": "S"
+      },
+      "session_info": {
+        "session_date": "2025-05-23"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "110457",
+          "session_2": "110701",
+          "session_3": "110909"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3333675",
+          "session_2": "3333676",
+          "session_3": "3333677"
+        },
+        "video_recordings": {
+          "session_1": "1267",
+          "session_2": "1268",
+          "session_3": "1269"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 28,
+      "name": "P28",
+      "demographics": {
+        "age": 29,
+        "musical_experience_years": 11,
+        "hexoskin_vest_size": "M"
+      },
+      "session_info": {
+        "session_date": "2025-05-26"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "160911",
+          "session_2": "161133",
+          "session_3": "161428"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3334287",
+          "session_2": "3334288",
+          "session_3": "3334289"
+        },
+        "video_recordings": {
+          "session_1": "1270",
+          "session_2": "1271",
+          "session_3": "1272"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    },
+    {
+      "participant_id": 29,
+      "name": "P29",
+      "demographics": {
+        "age": 24,
+        "musical_experience_years": 20,
+        "hexoskin_vest_size": "M"
+      },
+      "session_info": {
+        "session_date": "2025-05-26"
+      },
+      "sensor_data": {
+        "movella_sessions": {
+          "session_1": "164006",
+          "session_2": "164201",
+          "session_3": "164327"
+        },
+        "hexoskin_sessions": {
+          "session_1": "3334294",
+          "session_2": "3334295",
+          "session_3": "3334296"
+        },
+        "video_recordings": {
+          "session_1": "1273",
+          "session_2": "1274",
+          "session_3": "1275"
+        }
+      },
+      "data_completeness": {
+        "has_movella_data": true,
+        "has_hexoskin_data": true,
+        "has_video_data": true,
+        "complete_sessions": 3
+      }
+    }
+  ]
+}
