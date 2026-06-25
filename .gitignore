@@ -2,6 +2,13 @@
 # Hexoskin export under source_data/, or pass --hexoskin-path at runtime.
 source_data/
 
+# Performance audio (large; derived from identifiable video) — keep out of git.
+audio/
+*.mp3
+
+# Reference papers (copyrighted PDFs) — local only, do not redistribute.
+Assets/
+
 # Any non-anonymized roster/manifest variants (defensive — only the *_anonymized
 # files are meant to live in data/)
 data/*combined*

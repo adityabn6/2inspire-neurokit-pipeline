@@ -14,3 +14,7 @@ scipy>=1.7
 matplotlib>=3.5
 seaborn>=0.11
 soundfile>=0.11
+
+# analysis/ layer (music features + within-subject stats)
+librosa>=0.10        # chroma / audio features
+statsmodels>=0.14    # MixedLM + multiple-comparison correction
