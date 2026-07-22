@@ -1,0 +1,44 @@
+PERFORMANCE SCORING REPORT
+=============================================
+
+Metrics (1-10 scale):
+  1. Presumed Accuracy  — pitch stability + chroma clarity
+  2. Tempo              — BPM (1=slow, 10=fast)
+  3. Rhythm/Pulse       — tempo stability + onset consistency
+  4. Musicality         — harmonic variety + dynamics + expression
+  5. Focus              — tonal clarity + onset consistency
+  6. Poise/Tension      — timbre stability + dynamic control
+  7. Level of Compelling— dynamic range + expression + note density
+  8. Technical Difficulty— tempo + note density + harmonic complexity
+
+RANKINGS
+------------------------------
+ rank participant_id  overall_score
+    1             17       6.260000
+    2             18       6.256667
+    3             22       5.476667
+    4             12       5.450000
+    5             28       5.216667
+    6             14       5.123333
+    7              2       5.123333
+    8             25       4.986667
+    9             20       4.970000
+   10              6       4.930000
+   11              7       4.893333
+   12             19       4.806667
+   13             15       4.803333
+   14             10       4.793333
+   15             29       4.776667
+   16              5       4.726667
+   17              3       4.703333
+   18             11       4.693333
+   19             13       4.640000
+   20              1       4.620000
+   21             21       4.506667
+   22              8       4.506667
+   23             16       4.440000
+   24              9       4.366667
+   25              4       4.166667
+   26             27       4.140000
+   27             26       4.093333
+   28             24       4.060000
